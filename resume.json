@@ -47,7 +47,7 @@
     {
       "name": "University of Michigan",
       "position": "Research Fellow",
-      "startDate": "2019-12-31",
+      "startDate": "2019-01-01",
       "endDate": "2021-12-31",
       "highlights": [],
       "summary": "Conduct numerical simulations and photoionization models to study starburst superwinds.",
@@ -57,7 +57,7 @@
     {
       "name": "Harvard-Smithsonian Center for Astrophysics",
       "position": "Postdoctoral Fellow",
-      "startDate": "2015-12-31",
+      "startDate": "2015-09-01",
       "endDate": "2018-12-31",
       "highlights": [],
       "summary": "Perform X-ray spectral analysis on active galactic nuclei and symbiotic systems, and imaging analysis on ionized nebulae.",
@@ -67,8 +67,8 @@
     {
       "name": "University of Craiova",
       "position": "Visiting Researcher",
-      "startDate": "2008-12-31",
-      "endDate": "2008-12-31",
+      "startDate": "2008-02-01",
+      "endDate": "2008-10-31",
       "highlights": [],
       "summary": "Conduct an investigation on dual linearized gravity, topological BF Theories, gauge theories, and general relativity.",
       "url": "https://www.ucv.ro/en/",
@@ -91,7 +91,7 @@
       "url": "https://www.qub.ac.uk/",
       "area": "Plasma Physics",
       "studyType": "Master of Science",
-      "startDate": "2008-12-31",
+      "startDate": "2008-02-01",
       "endDate": "2009-12-31",
       "score": "Distinction",
       "courses": []
