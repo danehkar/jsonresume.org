@@ -218,12 +218,17 @@
     {
       "name": "Computational Science and Engineering",
       "level": "Master",
-      "keywords": ["Data Analysis", "Data Visualization", "Data Science","Parallel Computing","Applied Mathematics"]
+      "keywords": ["Data Analysis","Data Visualization", "Data Science","Parallel Computing","Applied Mathematics"]
     },
     {
       "name": "Electrical Engineering",
       "level": "Master",
-      "keywords": ["Electronics", "Microcontrollers","Control Systems","Embedded Systems","FPGA","CPLD"]
+      "keywords": ["Electronics","Microcontrollers","Control Systems","Embedded Systems","FPGA","CPLD"]
+    },
+    {
+      "name": "Computer Engineering",
+      "level": "Master",
+      "keywords": ["Object-Oriented Programming","Parallel Computing","Application-Specific Integrated Circuits","Distributed Real-Time Systems"]
     }
   ],
   "projects": [
