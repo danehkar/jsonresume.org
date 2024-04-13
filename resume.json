@@ -93,8 +93,8 @@
       "studyType": "Master of Science",
       "startDate": "2008-02-01",
       "endDate": "2009-12-31",
-      "score": "Distinction",
-      "courses": []
+      "score": "Distinction (A)",
+      "courses": ["Plasma Theory", "Experimental Plasma Physics", "Astrophysical Plasmas", "Laser-Produced Plasmas", "Low-Temperature Plasmas"]
     },
     {
       "institution": "University of Rostock",
@@ -103,7 +103,7 @@
       "studyType": "Master of Science",
       "startDate": "2005-09-01",
       "endDate": "2007-09-30",
-      "score": "Merit",
+      "score": "Merit (B+)",
       "courses": []
     }
   ],
