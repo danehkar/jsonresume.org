@@ -65,6 +65,26 @@
       "location": "Cambridge, Massachusetts, United States"
     },
     {
+      "name": "Macquarie University",
+      "position": "PhD Researcher",
+      "startDate": "2014-05-24",
+      "endDate": "2010-03-01",
+      "highlights": [],
+      "summary": "Perform IFU data analysis, plasma diagnostics, and chemical analysis of ionized nebulae, along with photoionization and morpho-kinematic modeling.",
+      "url": "https://www.mq.edu.au/",
+      "location": "Sydney, NSW, Australia"
+    }
+    {
+      "name": "Queen's University Belfast",
+      "position": "Postgraduate Researcher",
+      "startDate": "2008-09-01",
+      "endDate": "2009-12-10",
+      "highlights": [],
+      "summary": "Study theoretical fluid models of a space plasma containing suprathermal electrons, resulting in the formation of electron-acoustic waves.",
+      "url": "https://www.qub.ac.uk/",
+      "location": "Belfast, Northern Irelan, UK"
+    }
+    {
       "name": "University of Craiova",
       "position": "Visiting Researcher",
       "startDate": "2008-02-01",
