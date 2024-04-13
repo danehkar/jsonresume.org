@@ -42,7 +42,7 @@
       "highlights": [],
       "summary": "Perform X-ray data analysis to measure the spins of black holes in radio-quiet active galactic nuclei.",
       "url": "https://eurekasci.com/",
-      "location": "Ann Arbor, Michigan, United States"
+      "location": "Ann Arbor, MI, USA"
     },
     {
       "name": "University of Michigan",
@@ -52,7 +52,7 @@
       "highlights": [],
       "summary": "Conduct numerical simulations and photoionization models to study starburst superwinds.",
       "url": "https://umich.edu/",
-      "location": "Ann Arbor, Michigan, United States"
+      "location": "Ann Arbor, MI, USA"
     },
     {
       "name": "Harvard-Smithsonian Center for Astrophysics",
@@ -62,7 +62,7 @@
       "highlights": [],
       "summary": "Perform X-ray spectral analysis on active galactic nuclei and symbiotic systems, and imaging analysis on ionized nebulae.",
       "url": "https://www.cfa.harvard.edu/",
-      "location": "Cambridge, Massachusetts, United States"
+      "location": "Cambridge, MA, USA"
     },
     {
       "name": "Macquarie University",
@@ -73,7 +73,7 @@
       "summary": "Perform IFU data analysis, plasma diagnostics, and chemical analysis of ionized nebulae, along with photoionization and morpho-kinematic modeling.",
       "url": "https://www.mq.edu.au/",
       "location": "Sydney, NSW, Australia"
-    }
+    },
     {
       "name": "Queen's University Belfast",
       "position": "Postgraduate Researcher",
@@ -82,8 +82,8 @@
       "highlights": [],
       "summary": "Study theoretical fluid models of a space plasma containing suprathermal electrons, resulting in the formation of electron-acoustic waves.",
       "url": "https://www.qub.ac.uk/",
-      "location": "Belfast, Northern Irelan, UK"
-    }
+      "location": "Belfast, UK"
+    },
     {
       "name": "University of Craiova",
       "position": "Visiting Researcher",
@@ -92,7 +92,7 @@
       "highlights": [],
       "summary": "Conduct an investigation on dual linearized gravity, topological BF Theories, gauge theories, and general relativity.",
       "url": "https://www.ucv.ro/en/",
-      "location": "Craiova, Dolj, Romania"
+      "location": "Craiova, Romania"
     }
   ],
   "education": [
