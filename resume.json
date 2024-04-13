@@ -223,7 +223,7 @@
     {
       "name": "Electrical Engineering",
       "level": "Master",
-      "keywords": ["Electronics", "Microcontrollers","Control Theory","Embedded Systems","FPGA","CPLD"]
+      "keywords": ["Electronics", "Microcontrollers","Control Systems","Embedded Systems","FPGA","CPLD"]
     }
   ],
   "projects": [
