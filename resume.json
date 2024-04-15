@@ -124,7 +124,7 @@
       "startDate": "2005-09-01",
       "endDate": "2007-09-30",
       "score": "Merit (B+)",
-      "courses": ["Computational Electromagnetics", "Finite Element Methods", "Applied Mathematics", "Numerical Linear Algebra", "Parallel Computing", "Object-Oriented Programming", "Software Technology", "Programmable Integrated Circuits", "Microcontrollers", "Control System Design", "Distributed Real-Time Systems", "Advanced VLSI Design"]
+      "courses": ["Computational Electromagnetics", "Finite Element Methods", "Applied Mathematics", "Numerical Linear Algebra", "Parallel Computing", "Object-Oriented Programming", "Programmable Integrated Circuits", "Microcontrollers", "Control System Design", "Distributed Real-Time Systems", "Advanced VLSI Design"]
     }
   ],
   "awards": [
